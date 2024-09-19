@@ -16,6 +16,7 @@ class _CoffeeDetailScreenState extends State<CoffeeDetailScreen> {
   bool switchValue = false;
   int quantity = 1;
 
+
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
